@@ -1,0 +1,19 @@
+[
+{
+"guid": "8d2d7f7d-5e0d-4f8a-b6df-4b79a7e9a111",
+"name": "Intro Skipper",
+"description": "Pinned Intro Skipper version 1.10.11.11 for Jellyfin 10.11.8",
+"overview": "Automatically detects and skips intros and credits.",
+"owner": "tazze22",
+"category": "General",
+"versions": [
+{
+"version": "1.10.11.11",
+"changelog": "Pinned version for Jellyfin 10.11.8",
+"targetAbi": "10.11.8.0",
+"sourceUrl": "https://raw.githubusercontent.com/tazze22/jellyfin-introskipper-10.11.11/main/intro-skipper-v1.10.11.11.zip",
+"timestamp": "2026-06-12T00:00:00Z"
+}
+]
+}
+]
